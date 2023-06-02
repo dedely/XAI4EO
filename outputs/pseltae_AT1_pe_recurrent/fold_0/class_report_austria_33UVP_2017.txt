@@ -1,0 +1,15 @@
+                  precision    recall  f1-score   support
+
+            corn       0.99      1.00      0.99      2450
+      horsebeans       0.96      0.93      0.95       143
+          meadow       0.98      1.00      0.99      4528
+   spring_barley       0.93      0.95      0.94        65
+         unknown       0.93      0.85      0.89       955
+   winter_barley       0.99      0.99      0.99      1366
+ winter_rapeseed       1.00      1.00      1.00       230
+winter_triticale       0.84      0.87      0.85       386
+    winter_wheat       0.97      0.98      0.97      1487
+
+        accuracy                           0.98     11610
+       macro avg       0.96      0.95      0.95     11610
+    weighted avg       0.98      0.98      0.98     11610
